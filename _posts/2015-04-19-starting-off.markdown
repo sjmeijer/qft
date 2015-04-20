@@ -46,6 +46,7 @@ From here the authors discuss the transformation of scalars, vectors, etc. These
 
 A generic way of talking about a coordinate transformation between two inertial reference frames is to think of it as a map $$ \{x^{\mu}\} \rightarrow \{\overline{x}^{\mu}\}$$. This map would transform a vector $$a^{\mu}$$ as
 
+
 $$
 \begin{equation}
 \overline{a}^{\mu} = \left( \frac{\partial \overline{x}^{\mu}}{\partial x^{\nu}} \right) a^{\nu}  = \sum_{\nu=0}^{3}\left( \frac{\partial \overline{x}^{\mu}}{\partial x^{\nu}} \right) a^{\nu}

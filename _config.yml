@@ -3,7 +3,7 @@ title: QFT Notes
 email: meijer@live.unc.edu
 description: > # this means to ignore newlines until "baseurl:"
   A basic walk through the QFT book I picked up
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "qft" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  sjmeijer
 

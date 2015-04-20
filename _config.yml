@@ -1,0 +1,31 @@
+# Site settings
+title: QFT Notes
+email: meijer@live.unc.edu
+description: > # this means to ignore newlines until "baseurl:"
+  A basic walk through the QFT book I picked up
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  sjmeijer
+
+# Build settings
+name: QFT
+markdown: kramdown
+pygments: true
+
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
+  
+  
+  # Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#        
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-62053954-1'
+  getclicky :
+    site_id :

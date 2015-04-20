@@ -5,6 +5,7 @@ date:   2015-04-19 21:28:17
 categories: [intro, motivation] 
 ---
 The following covers pages 1 - 6
+
 ##0: Overture
 
 #0.1: What is quantum field theory
